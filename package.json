@@ -1,0 +1,29 @@
+{
+  "name": "alex-modelchanger",
+  "version": "1.0.0",
+  "description": "This will change models in an example vuforia application",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.7",
+    "asap": "^2.0.5",
+    "aws-sdk": "^2.27.0",
+    "base64-js": "^1.2.0",
+    "buffer": "^5.0.5",
+    "crypto-browserify": "^3.11.0",
+    "promise": "^7.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MCheli/Alexa-ModelChanger.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MCheli/Alexa-ModelChanger/issues"
+  },
+  "homepage": "https://github.com/MCheli/Alexa-ModelChanger#readme"
+}
